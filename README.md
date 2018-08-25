@@ -1,1 +1,1 @@
-## Shiny Templates
+## Shiny Practice components 
